@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://github.com/Anuvednft?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Projects-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
-  <a href="https://github.com/Anuvednft"><img src="https://img.shields.io/badge/Follow-Anuved-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+  <a href="https://portfolio.webinfix.in/"><img src="https://img.shields.io/badge/Visit-My%20Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" /></a>
 </p>
 
 </div>
@@ -58,9 +58,14 @@ I enjoy building things across web, mobile, and creative technology. I like expl
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anuvednft&bg_color=0d1117&color=c9d1d9&line=06b6d4&point=a78bfa&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
 </div>
 
-## 🤝 Find me on GitHub
+## 🤝 Connect with me
 
-<a href="https://github.com/Anuvednft"><img src="https://img.shields.io/badge/GitHub-Anuvednft-181717?style=for-the-badge&logo=github&logoColor=white" alt="Anuvednft on GitHub" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/anuved/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:vedkamalpal@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+  <a href="https://portfolio.webinfix.in/"><img src="https://img.shields.io/badge/Portfolio-View%20my%20work-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" /></a>
+  <a href="https://webinfix.com/"><img src="https://img.shields.io/badge/Company-Webinfix-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Webinfix" /></a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anuvednft&style=flat-square&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views" />
